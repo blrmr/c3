@@ -9,12 +9,17 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+ * 增加了一行代码（orange）
+ */
 
 /*
  * 增加了一行代码
  * 我有增加了一个分支func1
  * 铭铭 我有写了一行文字 你看见没有
  */
+
+
 
 /**
  * string.h
